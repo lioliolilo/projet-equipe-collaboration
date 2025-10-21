@@ -4,7 +4,7 @@
 - Membre 1 : Adam Agha - Chef d'équipe
 - Membre 2 : Siyuan Zhao - Développeur
 - Membre 3 : Zijie Lucas Qin - Testeur
-- Membre 3 : Gabriel Poirier - Testeur
+- Membre 4 : Gabriel Poirier - Testeur
 
 ## 2. Résumé des parties complétées
 
