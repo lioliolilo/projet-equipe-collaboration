@@ -54,11 +54,11 @@ Nous devons utiliser la commande « git checkout » pour créer une nouvelle bra
 
 ### Difficulté 1
 - **Problème** : Le repository locale est toujour détruit après pull.
-- **Solution** : ne pas mettre le repository locale dans un cloud comme ICloud, OneDrive
+- **Solution** : Ne pas mettre le repository locale dans un cloud comme ICloud, OneDrive
 
 ### Difficulté 2
-- **Problème** : [Décrivez le problème]
-- **Solution** : [Expliquez la solution trouvée]
+- **Problème** : Un problème récurrent rencontré lors de l'utilisation de GitHub était la création d'une nouvelle branche "origin/main" chaque fois que je poussais mes modifications. Git semblait automatiquement fusionner cette branche avec "origin/HEAD", ce qui entraînait des complications. Cette situation était difficile à résoudre, car la branche "origin/main" se comportait comme une branche par défaut à chaque git push, créant des conflits et rendant le flux de travail plus complexe.
+- **Solution** : Pour résoudre ce problème, j'aurais dû vérifier et configurer correctement la branche par défaut dans mon dépôt Git local et distant.
 
 ## 5. Apprentissages
 
