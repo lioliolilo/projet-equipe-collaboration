@@ -2,6 +2,7 @@
 ## Description
 Ce projet nous permet d'apprendre à utiliser Git en équipe. 
 c'est siyuan le membre 2
+On est 4 membres dans l'équipe.
 
 ## Membres de l'équipe
 - Développeur : Siyuan Zhao
