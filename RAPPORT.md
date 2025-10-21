@@ -13,23 +13,34 @@ Membre 1: Nous avons initialisé un git local dans un nouveau dossier, ajouté u
 
 Membre 2: j'ai mon compte GitHub personnel. 
 
+Membre 3 :J'ai un compte de GitHub pour le travail.
+
 ### Partie 2 : Ajout des collaborateurs
 Membre 1: Pour inviter quelqu'un à collaborer sur votre dépôt GitHub, accédez aux paramètres, puis à la section « Collaborateurs », vous pouvez inviter des personnes en utilisant leur nom d'utilisateur. Pour cloner un dépôt, dans VS Code, utilisez la commande « git clone » suivie du lien HTTPS du dépôt. Vous serez alors invité à choisir l'emplacement de sauvegarde.
 
 Membre 2: J'ai reçu une invitation via les notifications GitHub pour collaborer au dépôt. Je l'ai acceptée, puis j'ai utilisé la commande `git clone` avec l'URL HTTPS du dépôt pour en obtenir une copie locale sur mon ordinateur.
+
+Membre 3 : J'ai accepte l'invitation sur GitHub pouvoir collaborer notre travail, et on a utiliser la commande git clone avec URL pour le 
+clonage du projet.
 
 ### Partie 3 : Première collaboration
 Membre 1: Nous avons créé nos fichiers individuels en récupérant d'abord les modifications les plus récentes dans le dépôt GitHub à l'aide de « git pull », puis en créant un nouveau fichier dans VS Code. Nous avons ensuite dû préparer la modification, la valider et la « push » vers le dépôt.
 
 Membre 2: J'ai d'abord utilisé `git pull` pour m'assurer d'avoir la version la plus récente du projet. J'ai ensuite créé mon fichier personnel `membre2.txt`. Ensuite, j'ai utilisé `git add membre2.txt`, `git commit -m "Ajout des informations du membre 2"` et `git push` pour envoyer mon fichier sur GitHub.
 
+Memebre 3 : En utilisant git pull , pour recevoir tous les changements que les autres ont fait , j'ai creer un nouveau fichier et nommer le : membre3.txt et puis ecrit mon role , mon nom et ma responsabilités, Ensuite, j'ai sauvegardé et  enregister avec les git add et git commit, en fin en utilisant un git push pour envoyer mes changements.
+
 ### Partie 4 : Résolution de conflits
 Membre 1: J'ai créé un nouveau fichier index.html dans VS Code et y ai ajouté du contenu. J'ai ensuite mis en scène la modification, je l'ai validée puis je l'ai « push » vers le dépôt GitHub.
 
 Membre 2: J'ai modifié le fichier `README.md` sans faire de `git pull`. Lorsque j'ai tenté de `git push`, Git a rejeté mon envoi car Membre 1 avait déjà modifié le même fichier. J'ai alors fait `git pull`, ce qui a donné un conflit de fusion. J'ai ouvert `README.md` dans VS Code, identifié les marqueurs de conflit, puis j'ai modifié manuellement le fichier pour combiner les deux versions. Pour finir, je les ai envoyé sur GitHub.
 
+
 ### Partie 5 : Collaboration HTML
 Membre 2: J'ai commencé par un `git pull` pour récupérer le fichier `index.html` de base. J'ai ensuite ajouté la section `<section id="apropos">` dans le fichier HTML, puis j'ai push mes modifications. Plus tard, j'ai modifié le titre `<h1>` et l'ai push, ce qui a causé un conflit pour Membre 3.
+
+Membre 3 : J'ai utilisé git pull et puis  j'ai ajouté en contact  dans le fichier html  un section id et un email, ensuite j'ai fait le git add et commit pour rendre mes changements et git push à la fin. 
+Membre 3: J'ai modifier le titre en Notre super projet d'équipe avec Git et puis en utilisant git add , commit et  push , ca fait une erreur, alors je dois git pull pour recuperer les changements , en créant un titre qui combine les deux idées pour regler le problem. En fin j'ai utilisé git add, commit et push pour la version finale qui n'a plus de conflit.
 
 ### Partie 6 : Utilisation des branches
 Nous devons utiliser la commande « git checkout » pour créer une nouvelle branche. Cela nous permettra d'effectuer des modifications en dehors de la branche principale, puis, à la fin, on peut supprimer la nouvelle branche ou fusionner les deux. Pour les fusionner, nous avons d'abord utilisé la commande « git checkout main » pour revenir à la branche principale, puis la commande « git merge » suivie du nom de la nouvelle branche.
