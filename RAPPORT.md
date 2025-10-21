@@ -47,7 +47,7 @@ Nous devons utiliser la commande « git checkout » pour créer une nouvelle bra
 
 ### Partie 7 : Situations réalistes
 1.  **Situation 1 :** Membre 2 a modifié `membre2.txt` en même temps que le Membre 1 modifiait `membre1.txt`. Comme nous travaillions sur des fichiers différents, il n'y a pas eu de conflit.
-2.  **Situation 2 :** Membre 2 a modifié `README.md` après le Membre 1 sans `pull`, mon `push` a échoué, et j'ai dû faire `git pull` et résoudre un conflit avant de pouvoir "pusher".
+2.  **Situation 2 :** Membre 2 a modifié `README.md` après le Membre 1 sans `pull`, `push` de membre 2 a échoué, et il a dû faire `git pull` et résoudre un conflit avant de pouvoir "pusher".
 3.  **Situation 3 :**
 4.  **Situation 4 :** Nous avons tous testé les trois formats différents de « git log ». D'abord, « git log » affiche tous les commits et leurs informations. Ensuite, nous avons utilisé « git log --oneline », qui condense tout en une seule ligne pour une meilleure lisibilité. Enfin, nous avons utilisé « git log --oneline --graph --all », qui inclut les commits et leurs informations, ainsi que les branches que nous avons créées.
 
