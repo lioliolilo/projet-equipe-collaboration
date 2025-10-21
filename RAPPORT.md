@@ -53,8 +53,8 @@ Nous devons utiliser la commande « git checkout » pour créer une nouvelle bra
 ## 4. Difficultés rencontrées
 
 ### Difficulté 1
-- **Problème** : [Décrivez le problème rencontré]
-- **Solution** : [Expliquez comment vous l'avez résolu]
+- **Problème** : Le repository locale est toujour détruit après pull.
+- **Solution** : ne pas mettre le repository locale dans un cloud comme ICloud, OneDrive
 
 ### Difficulté 2
 - **Problème** : [Décrivez le problème]
