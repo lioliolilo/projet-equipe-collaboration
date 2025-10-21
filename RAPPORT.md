@@ -35,9 +35,8 @@ Membre 2: J'ai commencé par un `git pull` pour récupérer le fichier `index.ht
 Nous devons utiliser la commande « git checkout » pour créer une nouvelle branche. Cela nous permettra d'effectuer des modifications en dehors de la branche principale, puis, à la fin, on peut supprimer la nouvelle branche ou fusionner les deux. Pour les fusionner, nous avons d'abord utilisé la commande « git checkout main » pour revenir à la branche principale, puis la commande « git merge » suivie du nom de la nouvelle branche.
 
 ### Partie 7 : Situations réalistes
-Membre 2: 
-1.  **Situation 1 :** J'ai modifié `membre2.txt` en même temps que le Membre 1 modifiait `membre1.txt`. Comme nous travaillions sur des fichiers différents, il n'y a pas eu de conflit.
-2.  **Situation 2 :** J'ai modifié `README.md` après le Membre 1 sans `pull`, mon `push` a échoué, et j'ai dû faire `git pull` et résoudre un conflit avant de pouvoir "pusher".
+1.  **Situation 1 :** Membre 2 a modifié `membre2.txt` en même temps que le Membre 1 modifiait `membre1.txt`. Comme nous travaillions sur des fichiers différents, il n'y a pas eu de conflit.
+2.  **Situation 2 :** Membre 2 a modifié `README.md` après le Membre 1 sans `pull`, mon `push` a échoué, et j'ai dû faire `git pull` et résoudre un conflit avant de pouvoir "pusher".
 3.  **Situation 3 :**
 4.  **Situation 4 :** Nous avons tous testé les trois formats différents de « git log ». D'abord, « git log » affiche tous les commits et leurs informations. Ensuite, nous avons utilisé « git log --oneline », qui condense tout en une seule ligne pour une meilleure lisibilité. Enfin, nous avons utilisé « git log --oneline --graph --all », qui inclut les commits et leurs informations, ainsi que les branches que nous avons créées.
 
