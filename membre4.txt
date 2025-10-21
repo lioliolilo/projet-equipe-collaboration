@@ -1,0 +1,3 @@
+Nom : [Gabriel Poirier]
+Rôle : Testeur
+Responsabilités : Tests et validation du travail d'équipe
