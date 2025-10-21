@@ -1,3 +1,5 @@
 Nom : Siyuan Zhao
 Rôle : Développeur
 Responsabilités : Développement et tests du code
+
+je suis un bon programmeur.
