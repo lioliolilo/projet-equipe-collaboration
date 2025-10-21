@@ -1,18 +1,18 @@
-# Rapport de laboratoire Git - Équipe [Nom]
+# Rapport de laboratoire Git - Équipe Adam Agha, Siyuan Zhao, Lucas Zijie Qin et Gabriel Poirier
 
 ## 1. Membres de l'équipe
-- Membre 1 : [Adah Agha - Chef d'équipe]
-- Membre 2 : [Siyuan Zhao - Développeur]
-- Membre 3 : [Zijie Lucas Qin - Testeur]
-- Membre 3 : [Gabriel Poirier - Testeur]
+- Membre 1 : Adam Agha - Chef d'équipe
+- Membre 2 : Siyuan Zhao - Développeur
+- Membre 3 : Zijie Lucas Qin - Testeur
+- Membre 3 : Gabriel Poirier - Testeur
 
 ## 2. Résumé des parties complétées
 
 ### Partie 1 : Configuration initiale
-[Décrivez brièvement ce que vous avez fait et ce que vous avez appris]
+Nous avons initialisé un git local dans un nouveau dossier, ajouté un fichier README.md puis on a commit ce fichier. Dans la section suivante, nous avons créé un nouveau dépôt GitHub. Enfin, nous avons connecté notre git local au dépôt GitHub.
 
 ### Partie 2 : Ajout des collaborateurs
-[Décrivez le processus d'invitation et de clonage]
+Pour inviter quelqu'un à collaborer sur votre dépôt GitHub, accédez aux paramètres, puis à la section « Collaborateurs », vous pouvez inviter des personnes en utilisant leur nom d'utilisateur. Pour cloner un dépôt, dans VS Code, utilisez la commande « git clone » suivie du lien HTTPS du dépôt. Vous serez alors invité à choisir l'emplacement de sauvegarde.
 
 ### Partie 3 : Première collaboration
 [Expliquez comment vous avez créé vos fichiers individuels]
