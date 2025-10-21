@@ -1,3 +1,4 @@
 Nom : Adam Agha
 Rôle : Chef d'équipe
 Responsabilités : Coordination du projet et gestion du dépôt GitHub
+Compétence : Je suis un programmeur
