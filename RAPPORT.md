@@ -67,15 +67,8 @@ Nous devons utiliser la commande « git checkout » pour créer une nouvelle bra
 
 ## 3. Captures d'écran
 
-### Étape 1.1 - Initialisation du dépôt
-
-![Description](chemin/vers/capture1.png)
-
-### Étape 1.2 - Création du compte GitHub
-
-![Description](chemin/vers/capture2.png)
-
-[Continuez pour toutes les étapes...]
+### 3.1 lien de GitHub pour les Captures d'écran
+https://github.com/DDdemonG/Labo_Collaboration
 
 ## 4. Difficultés rencontrées
 
