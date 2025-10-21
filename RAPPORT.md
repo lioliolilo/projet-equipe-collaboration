@@ -1,9 +1,10 @@
 # Rapport de laboratoire Git - Équipe [Nom]
 
 ## 1. Membres de l'équipe
-- Membre 1 : [Nom complet - Rôle]
-- Membre 2 : [Nom complet - Rôle]
-- Membre 3 : [Nom complet - Rôle]
+- Membre 1 : [Adah Agha - Chef d'équipe]
+- Membre 2 : [Siyuan Zhao - Développeur]
+- Membre 3 : [Zijie Lucas Qin - Testeur]
+- Membre 3 : [Gabriel Poirier - Testeur]
 
 ## 2. Résumé des parties complétées
 
